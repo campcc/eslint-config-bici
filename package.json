@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-bici",
+  "version": "0.0.1",
+  "description": "A collection of eslint rules for bicitech FED,",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campcc/eslint-config-bici.git"
+  },
+  "keywords": [
+    "bici",
+    "eslint-config-bici"
+  ],
+  "author": "campcc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/campcc/eslint-config-bici/issues"
+  },
+  "homepage": "https://github.com/campcc/eslint-config-bici#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-prettier": "^6.10.0"
+  }
+}
